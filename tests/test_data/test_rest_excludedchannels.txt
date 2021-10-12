@@ -1,0 +1,6 @@
+Subject	Session	Channel	Reason	ExcludedFrom
+test	rest	F7	33  samples or less	WholeHeadIAF, Network Power and Coherence
+test	rest	P7	33  samples or less	WholeHeadIAF, Network Power and Coherence
+test	rest	T8	33  samples or less	WholeHeadIAF, Network Power and Coherence
+test	rest	F8	33  samples or less	WholeHeadIAF, Network Power and Coherence
+test	rest	AF4	33  samples or less	WholeHeadIAF, Network Power and Coherence
